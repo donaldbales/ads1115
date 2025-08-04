@@ -7,4 +7,6 @@ From there, you can find the tutorial at: https://learn.adafruit.com/adafruit-4-
 
 The data sheet for the ADS1015 can be found at: https://www.ti.com/lit/ds/symlink/ads1115.pdf
 
+I2C Addresses: **48** or 49 or 4A or 4B
+
 This is a beautiful product. It does exactly what the documentation does, without any hair pulling. :)
